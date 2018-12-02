@@ -1,4 +1,4 @@
-# Student Memory Game Project from Udacity. Thisis a project in the front-end development nanodegree program
+# Student Memory Game Project from Udacity. This is a project in the front-end development nanodegree program
 
 
 
